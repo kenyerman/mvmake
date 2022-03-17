@@ -54,7 +54,7 @@ optional arguments:
 
 ## Samples
 
-### Sample #1: _Fall In Love_
+### Sample 1: _Fall In Love_
 This sample is constructed from ___DigEx - Fall In Love___ and clips from ___Beeple-Crap - übersketch___.  
 The default ___onset___ detection method was used. (`--method onset`)
 
@@ -70,7 +70,7 @@ Watch: http://youtu.be/
 VJ Loops: Beeple-Crap - übersketch
 https://www.beeple-crap.com/vjloops
 ```
-### Sample #2: _Talk_
+### Sample 2: _Talk_
 This sample is constructed from ___Beave - Talk___ and clips from ___Beeple-Crap - four.color.process___.  
 The ___beat___ detection method was used. (`--method beat`)
 
@@ -89,17 +89,17 @@ https://www.beeple-crap.com/vjloops
 
 ## Changelog
 
-[Learn about the latest improvements](changelog).
+[Learn about the latest improvements](changelog.md).
 
 ## Contributing
 
 ### Contributing Guidelines
 
-Read through our [contributing guidelines](contributing) to learn about our submission process, coding rules and more.
+Read through our [contributing guidelines](contributing.md) to learn about our submission process, coding rules and more.
 
 ### Want to Help?
 
-Want to report a bug, contribute some code, or improve documentation? Excellent! Read up on our guidelines for [contributing][contributing] and then check out one of our issues labeled as <kbd>[help wanted](https://github.com/kenyerman/mvmake/labels/help%20wanted)</kbd> or <kbd>[good first issue](https://github.com/kenyerman/mvmake/labels/good%20first%20issue)</kbd>.
+Want to report a bug, contribute some code, or improve documentation? Excellent! Read up on our guidelines for [contributing](contributing.md) and then check out one of our issues labeled as <kbd>[help wanted](https://github.com/kenyerman/mvmake/labels/help%20wanted)</kbd> or <kbd>[good first issue](https://github.com/kenyerman/mvmake/labels/good%20first%20issue)</kbd>.
 
 ## License
 
