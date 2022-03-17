@@ -35,20 +35,19 @@ def load_source_clips (
     files = []
 
     for filename in glob.iglob(path + '/**/**', recursive=True):
-        full_path = os.path.join(path, filename)
-
         if extensions == None:
-            files.append(full_path)
+            files.append(filename)
             continue
 
-        file_extension = os.path.splitext(full_path)[1][1:].strip().lower()
+        file_extension = os.path.splitext(filename)[1][1:].strip().lower()
         if file_extension in extensions:
-            files.append(full_path)
+            files.append(filename)
 
     for f in tqdm(files):
         try:
             clips.append(SourceClip(f, target_resolution))
-        except Exception:
+        except Exception as e:
+            raise e
             pass
 
     return clips
