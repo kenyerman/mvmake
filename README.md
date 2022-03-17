@@ -89,17 +89,17 @@ https://www.beeple-crap.com/vjloops
 
 ## Changelog
 
-[Learn about the latest improvements](changelog.md).
+[Learn about the latest improvements](CHANGELOG.md).
 
 ## Contributing
 
 ### Contributing Guidelines
 
-Read through our [contributing guidelines](contributing.md) to learn about our submission process, coding rules and more.
+Read through our [contributing guidelines](CONTRIBUTING.md) to learn about our submission process, coding rules and more.
 
 ### Want to Help?
 
-Want to report a bug, contribute some code, or improve documentation? Excellent! Read up on our guidelines for [contributing](contributing.md) and then check out one of our issues labeled as <kbd>[help wanted](https://github.com/kenyerman/mvmake/labels/help%20wanted)</kbd> or <kbd>[good first issue](https://github.com/kenyerman/mvmake/labels/good%20first%20issue)</kbd>.
+Want to report a bug, contribute some code, or improve documentation? Excellent! Read up on our guidelines for [contributing](CONTRIBUTING.md) and then check out one of our issues labeled as <kbd>[help wanted](https://github.com/kenyerman/mvmake/labels/help%20wanted)</kbd> or <kbd>[good first issue](https://github.com/kenyerman/mvmake/labels/good%20first%20issue)</kbd>.
 
 ## License
 
