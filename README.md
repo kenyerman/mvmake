@@ -89,13 +89,13 @@ https://www.beeple-crap.com/vjloops
 
 ## Changelog
 
-[Learn about the latest improvements][changelog].
+[Learn about the latest improvements](changelog).
 
 ## Contributing
 
 ### Contributing Guidelines
 
-Read through our [contributing guidelines][contributing] to learn about our submission process, coding rules and more.
+Read through our [contributing guidelines](contributing) to learn about our submission process, coding rules and more.
 
 ### Want to Help?
 
@@ -103,4 +103,10 @@ Want to report a bug, contribute some code, or improve documentation? Excellent!
 
 ## License
 
-The project is licensed under MIT License. Read more [here][LICENSE].
+The project is licensed under MIT License. Read more [here](LICENSE).
+
+## Shoutout to these guys 🎉💖
+This project is based on the following packages, check them out!
+
+ - [MoviePy](https://github.com/Zulko/moviepy)
+ - [librosa](https://github.com/librosa/librosa)
