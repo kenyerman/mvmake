@@ -168,7 +168,7 @@ def main() -> None:
 
     print('Loading audio source')
     audio = AudioFileClip(args.music)
-    beat_times = get_beat_times(args.music)
+    beat_times = get_beat_times(args.music, args.method)
 
     print('Creating frames')
     clips = get_clips(beat_times, sources, audio)
